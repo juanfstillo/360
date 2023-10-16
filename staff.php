@@ -52,7 +52,7 @@
       </div>
       <div class="col-md-6">
         <div class="card text-center">
-          <img src="images/Lferraro.png" alt="Member Photo">
+          <img src="images/GCaparros.png" alt="Member Photo">
           <h4>Gabriel Caparrós</h4>
           <h5>Director</h5>
         </div>
