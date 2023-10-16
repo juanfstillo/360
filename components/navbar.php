@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
 <a class="navbar-brand" href="index.php">
-    <img src="images/navBarLogo.png" width="40" height="40" class="d-inline-block align-top" alt="">
+    <img src="images/navBarLogo.png" width="40" height="40"class="d-inline-block align-top" alt="">
     360 | CENTRO DE TENIS
   </a>  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -18,13 +18,9 @@
           Servicios
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="particulares.php">Clases Particulares</a>
-          <a class="dropdown-item" href="grupales.php">Clases Grupales</a>
-          <a class="dropdown-item" href="entrenamiento.php">Entrenamiento para Equipos</a>
-          <a class="dropdown-item" href="fisico.php">Preparación Física</a>
-          <a class="dropdown-item" href="pretemporada.php">Pretemporada</a>
+          <a class="dropdown-item" href="clases.php">Clases de Tenis</a>
+          <a class="dropdown-item" href="gestion.php">Gestión de Clubes</a>
           <a class="dropdown-item" href="torneos.php">Torneos</a>
-
         </div>
       </li>
       <li class="nav-item active">
@@ -39,8 +35,6 @@
       <li class="nav-item active">
       <a class="nav-link" href="https://wa.me/+5491121878742"><img src="images/whatsapp-solid.svg" style="width:30px" align="middle" alt="Phone"></a>
       </li>
-
-
     </ul>
   </div>
 </nav>

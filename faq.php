@@ -40,7 +40,7 @@
 <section class="accordion-section clearfix mt-3" aria-label="Question Accordions">
   <div class="container">
   
-  <h1 class="dark-color">Preguntas Frecuentes</h1>
+  <h1 class="dark-color">Preguntas Frecuentes referidas a nuestras Clases de Tenis</h1>
 	  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 		<div class="panel panel-default">
 		  <div class="panel-heading p-3 mb-3" role="tab" id="heading0">
@@ -154,7 +154,7 @@
 		  </div>
 		  <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
 			<div class="panel-body px-3 mb-4">
-			  <p>Estamos en el Club Tiro Federal La dirección del mismo es Tambor de Tacuarí 501 - CABA</p>
+			  <p>Estamos en el Club Tiro Federal. La dirección del mismo es Tambor de Tacuarí 501 - CABA</p>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52589.75873045785!2d-58.495599030468746!3d-34.531776799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb42f80cb2fc7%3A0x95de79b9249e5729!2sTiro%20Federal%20Argentino!5e0!3m2!1sen!2sar!4v1689214421550!5m2!1sen!2sar" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 			</div>

@@ -41,68 +41,33 @@
  <!-- Cards -->
  <div class="card-group mt-4">
   <div class="card">
-    <img class="card-img-top" src="images/individual1.png" alt="Card image cap">
+    <img class="card-img-top" src="images/clases.png" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Clases Particulares</h5>
+      <h5 class="card-title">Clases de Tenis</h5>
       <p class="card-text">Aprendé este hermoso deporte o mejorá tu juego en el menor tiempo posible.</p>
     </div>
     <div class="card-footer">
-    <a class="btn btn-lg " id="ctaButton" href="particulares.php" role="button">Conocé más</a>
+    <a class="btn btn-lg " id="ctaButton" href="clases.php" role="button">Conocé más</a>
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="images/grupal1.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Clases Grupales</h5>
-      <p class="card-text">Sumate a un grupo de entrenamiento o vení a entrenar con amigos.</p>
-    </div>
-    <div class="card-footer">
-    <a class="btn btn-lg " id="ctaButton" href="grupales.php" role="button">Conocé más</a>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="images/team.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Entrenamiento para Equipos</h5>
-      <p class="card-text">Trae a tu equipo y preparalo para la jugar interclubes en el más alto nivel.</p>
-    </div>
-    <div class="card-footer">
-    <a class="btn btn-lg " id="ctaButton" href="entrenamiento.php" role="button">Conocé más</a>
-    </div>
-  </div>
-</div>
-<div class="card-group mt-4">
-  <div class="card">
-    <img class="card-img-top" src="images/pf1.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Preparación Física</h5>
-      <p class="card-text">Ponete en forma, jugá, competí y divertirte con nuestra entrenadora.</p>
-    </div>
-    <div class="card-footer">
-    <a class="btn btn-lg " id="ctaButton" href="fisico.php" role="button">Conocé más</a>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="images/fisico.jpg" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Pretemporada</h5>
-      <p class="card-text">Sentá las bases para jugar todo el año en gran nivel tanto técnico como físico.</p>
-    </div>
-    <div class="card-footer">
-    <a class="btn btn-lg " id="ctaButton" href="pretemporada.php" role="button">Conocé más</a>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="images/torneos.png" alt="Card image cap">
+    <img class="card-img-top" src="images/torneos.jpg" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Torneos</h5>
       <p class="card-text">Competí sin importar el nivel que tengas. Tenemos torneos para todos.</p>
     </div>
-    <!-- <a class="btn btn-lg " id="ctaButton" href="https://wa.me/+5491163009632" role="button">Contactanos</a> -->
     <div class="card-footer">
-    <a class="btn btn-lg " id="ctaButton" href="https://wa.me/+5491163009632" role="button">Conocé más</a>
-
-      <!-- <small class="text-muted">Last updated 3 mins ago</small> -->
+    <a class="btn btn-lg " id="ctaButton" href="torneos.php" role="button">Conocé más</a>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="images/gestion.png" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Gestión de Clubes</h5>
+      <p class="card-text">Ofrecemos un conjunto de servicios para gestionar tu club de tenis de la mejor manera.</p>
+    </div>
+    <div class="card-footer">
+    <a class="btn btn-lg " id="ctaButton" href="gestion.php" role="button">Conocé más</a>
     </div>
   </div>
 </div>

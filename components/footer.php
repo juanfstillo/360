@@ -32,7 +32,7 @@
 
       <!-- Copyright -->
       <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-        © 2021 Copyright:
+        © 2023 Copyright:
         <a class="text-dark" target=”_blank” href="https://www.linkedin.com/in/juan-franciscostillo/">Juan Stillo</a>
       </div>
       <!-- Copyright -->

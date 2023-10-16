@@ -39,41 +39,28 @@
   <section class="section about-section gray-bg" id="about">
   <div class="card-body">
     <h1 class="dark-color">Nosotros</h1>
-    <p class="card-text">Nuestro objetivo principal es hacer nuestro pequeño aporte para mejorar la condición técnica y táctica de los jugadores de tenis. <br> A través de profesionales especializados en la materia, ofrecemos todos los instrumentos y conocimientos necesarios para lograr una buena formación integral.
-
-    <br>Proponemos nuestro servicio como una posibilidad para aquellos que quieran lograr un buen rendimiento, brindándoles así todos los materiales posibles para lograr cumplir los objetivos buscados.</p>
+    <p class="card-text">Somos una empresa gestora de clubes de tenis dedicada a potenciar el rendimiento y la formación integral de jugadores de tenis. A través de profesionales especializados, ofrecemos los instrumentos y conocimientos necesarios para alcanzar el éxito en este deporte. Nuestros servicios son la opción ideal para aquellos que buscan un alto rendimiento, proporcionando todos los recursos necesarios para lograr sus objetivos en el tenis</p>
   </div>
-  <div class="team-area sp">
-    <div class="container">
-    <h2 class="dark-color">Staff</h2>
-
-       <div class="row">
-          <div class="col-sm-6 col-md-4 col-lg-3 single-team">
-             <div class="inner">
-                <div class="team-img">
-                   <img src="images/RAguilar.png" alt="Member Photo">
-                </div>
-                <div class="team-content">
-                   <h4>Rodrigo Aguilar</h4>
-                   <h5>Director</h5>
-                </div>
-             </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-3 single-team">
-             <div class="inner">
-                <div class="team-img">
-                <img src="images/Lferraro.png" alt="Member Photo">
-                </div>
-                <div class="team-content">
-                <h4>Gabriel Caparrós</h4>
-                <h5>Director</h5>
-                </div>
-             </div>
-          </div>
-       </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="card text-center">
+          <img src="images/RAguilar.png" alt="Member Photo">
+          <h4>Rodrigo Aguilar</h4>
+          <h5>Director</h5>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card text-center">
+          <img src="images/Lferraro.png" alt="Member Photo">
+          <h4>Gabriel Caparrós</h4>
+          <h5>Director</h5>
+        </div>
+      </div>
     </div>
- </div>
-        </section>
+  </div>
+
+</section>
 
  
 

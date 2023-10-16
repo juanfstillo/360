@@ -3,36 +3,16 @@
     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
     <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-    <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/carrousel13.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h4>Clases</h4>
-        <p>particulares, grupales y entrenamiento para equipos</p>
-      </div>
+      <img src="images/ca2b.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-    <img src="images/carrousel14.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-      <h4>Preparación Física</h4>
-      <p>ponete en forma para dar lo mejor de vos</p>
-      </div>
+    <img src="images/ca3.png" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-    <img src="images/carrousel20.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-      <h4>Torneos</h4>
-      <p>competí, ganá y ascendé en el ranking 360</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-    <img src="images/carrousel34.png" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-      <h4>Pretemporada</h4>
-      <p>empezá el año jugando al tenis</p>
-      </div>
+    <img src="images/ca3f.png" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">

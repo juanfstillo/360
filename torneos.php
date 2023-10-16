@@ -37,18 +37,21 @@
   <body>
   <?php require "components/navbar.php"; ?>
 
-  <div class="card mb-3">
-  <div class="card-body">
-    <h4 class="dark-color">Torneos</h4>
-    <p class="card-text">Realizamos torneos para todos los niveles en la modalidad singles y dobles en convenio con UTR. UTR son las iniciales de Universal Tennis Rating y es el resultado numérico de un algoritmo que busca evaluar el nivel de tenis en una escala universal. Es universal porque puntúa a cualquier jugador en un rango creciente de 1 a 16,50: los mejores jugadores tienen un UTR más alto, pero cualquier persona tiene una puntuación en la misma escala, ya sea hombre o mujer, joven o anciano.
-El algoritmo tiene en cuenta los treinta últimos partidos jugados en los últimos doce meses, y a cada partido le asigna una calificación y una importancia.
-
-La calificación del partido depende de dos factores: del UTR del contrincante y lo ajustado que haya sido el marcador, según el porcentaje de juegos ganados. Con estos dos ingredientes el algoritmo calcula un resultado esperado. Si alguno de los rivales rinde mejor de lo previsto, su UTR subirá (y viceversa). Esto significa que si el algoritmo piensa que un jugador va a ganar 6-1 6-1 y finalmente gana 7-5 6-4, el perdedor mejorará ligeramente su UTR.
-Por otra parte, la importancia del partido depende del formato (mayor cuanto más largo sea el formato: los partidos a cinco sets cuentan más que los partidos a tres sets, o con supertiebreak, o con formato Fast4); de la diferencia entre UTR (más importante cuanta menor sea la diferencia); de la fecha del partido (cuanto más reciente sea, más peso tiene el partido); y de la fiabilidad del UTR del rival (si el oponente ha jugado muchos partidos, el UTR estará más ajustado a la realidad). Además, si la diferencia entre UTR es mayor de 2 puntos el partido no se tendrá en cuenta, salvo que el rival más débil dé la categoría.</p>
-<img src="images/competi.jpg" class="card-img-top" alt="clasesParticulares">
-  
-</div>
-</div>
+  <section class="py-5">
+            <div class="container px-4 px-lg-5 my-5">
+                <div class="row gx-4 gx-lg-5 align-items-center">
+                    <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0" src="images/torneosIn.png" alt="torneosIn" /></div>
+                    <div class="col-md-6">
+                        <h1 class="display-5 fw-bolder">Torneos UTR</h1>
+                        <div class="fs-5 mb-5">
+                        </div>
+                        <p class="lead">Realizamos torneos para todos los niveles en la modalidad singles y dobles en convenio con UTR. UTR son las iniciales de Universal Tennis Rating y es el resultado numérico de un algoritmo que busca evaluar el nivel de tenis en una escala universal. Es universal porque puntúa a cualquier jugador en un rango creciente de 1 a 16,50: los mejores jugadores tienen un UTR más alto, pero cualquier persona tiene una puntuación en la misma escala, ya sea hombre o mujer, joven o anciano.
+                        El algoritmo tiene en cuenta los treinta últimos partidos jugados en los últimos doce meses, y a cada partido le asigna una calificación y una importancia.
+                        </p>
+                    </div>
+                </div>
+            </div>
+    </section>
 
 
 
